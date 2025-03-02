@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bullet
+  - Hittable
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 'Ground '
+    uniqueID: 905823517
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1220113193
+    locked: 0
+  - name: Trees
+    uniqueID: 370482463
+    locked: 0
+  - name: Enemies
+    uniqueID: 650612769
+    locked: 0
+  - name: 'Player '
+    uniqueID: 567902569
+    locked: 0
+  - name: Items
+    uniqueID: 446542977
+    locked: 0
+  - name: Bullets
+    uniqueID: 2668957213
+    locked: 0
+  - name: SpecialEffects
+    uniqueID: 2887858743
+    locked: 0
+  - name: UI
+    uniqueID: 241143767
+    locked: 0
+  m_RenderingLayers:
+  - Default
